@@ -1,0 +1,39 @@
+.navbar {
+    background-color: aqua;
+
+}
+.navbar-collapse{
+    justify-content: flex-end;
+    background-color: chartreuse;
+   }
+   .overlay{
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(244, 244, 244, 0.79);
+   }
+   .description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+    
+}
+.description h1{
+ color:blue ;
+}
+.description p{
+ color:#666;
+ font-size: 20px;
+ width: 50%;
+ line-height: 1.5;
+}
+
+.imgdog{
+width: 500px;
+margin: 0 auto;
+background-color: black;
+
+}
